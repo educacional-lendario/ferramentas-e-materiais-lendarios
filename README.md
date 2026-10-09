@@ -18,6 +18,8 @@ Todas as skills são desenhadas para gerar resultados práticos e monetizáveis 
 | # | Skill | Nível | Descrição |
 |:---:|---|:---:|---|
 | **01** | [**Prospecção Inteligente**](skills/01-prospeccao-inteligente/) | Iniciante | Sequência de prospecção ativa por rede social (Instagram, TikTok e LinkedIn) sem parecer spam e sem queimar contatos. |
+| **02** | [**Diagnóstico de Oferta em 60s**](skills/02-diagnostico-de-oferta/) | Iniciante | Raio-x do funil para identificar exatamente onde a receita está vazando e quantificar o dinheiro deixado na mesa. |
+| **03** | [**Proposta Comercial Automática**](skills/03-proposta-comercial-automatica/) | Iniciante | Proposta consultiva em 6 blocos ancorada nas dores reais do cliente, gerada no mesmo dia da reunião para fechar o deal. |
 
 ---
 
